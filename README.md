@@ -12,7 +12,7 @@ http://js.studio-kingdom.com/jqueryui/interactions/sortable
 サンプル
 http://plnkr.co/VG0vaOhPXvA1hU95ELWw
 
-
+[![IMAGE ALT TEXT HERE](http://plnkr.co/VG0vaOhPXvA1hU95ELWw)](http://plnkr.co/VG0vaOhPXvA1hU95ELWw)
 
 
 
