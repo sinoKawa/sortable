@@ -11,8 +11,8 @@ http://js.studio-kingdom.com/jqueryui/interactions/sortable
 
 サンプル
 http://plnkr.co/VG0vaOhPXvA1hU95ELWw
+<iframe src="http://plnkr.co/VG0vaOhPXvA1hU95ELWw" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen> </iframe>
 
-[![IMAGE ALT TEXT HERE](http://plnkr.co/VG0vaOhPXvA1hU95ELWw)](http://plnkr.co/VG0vaOhPXvA1hU95ELWw)
 
 
 
